@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I'm Peter H. Charlton
 
-<!--
-**peterhcharlton/peterhcharlton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an engineer and researcher specialising in **signal processing for wearables**, with applications in **health and wellbeing**.  
+My work focuses on extracting meaningful physiological insights from signals such as PPG, ECG, and accelerometry, and applying **machine learning** to develop new health metrics.
 
-Here are some ideas to get you started:
+![Peter H Charlton's github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=peterhcharlton&show_icons=true)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔗 Connect with me
+
+- 🌐 [Personal Website](https://peterhcharlton.github.io/)  
+- 💼 [LinkedIn](http://linkedin.com/in/peterhcharlton)  
+- 📚 [Google Scholar](https://scholar.google.com/citations?user=8c4sKXoAAAAJ)  
+
+---
+
+## 🚀 Current Work
+
+- ❤️ Developing novel machine learning methods for **electrocardiography (ECG)** data.  
+- 🩺 Benchmarking machine learning methods for **photoplethysmography (PPG)** data.  
+- 🤝 Contributing to **open-source projects** such as [NeuroKit](https://github.com/neuropsychology/NeuroKit).  
+
+---
+
+## 🌟 Highlights
+
+- 🔬 Award-winning research into **signal processing for biosignals**, published in top journals and conferences.  
+- 🛠️ Open-source contributions adopted by researchers worldwide.  
+- 📖 Author of review papers and textbook chapters on **wearable devices and signal processing**.  
+
