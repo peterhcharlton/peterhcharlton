@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Peter H. Charlton
+# 👋 Hi, I'm Peter Charlton
 
 I am an engineer and researcher specialising in **signal processing for wearables**, with applications in **health and wellbeing**.  
 My work focuses on extracting meaningful physiological insights from signals such as PPG, ECG, and accelerometry, and applying **machine learning** to develop new health metrics.
