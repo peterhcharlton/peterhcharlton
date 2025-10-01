@@ -1,7 +1,15 @@
 # 👋 Hi, I'm Peter Charlton
 
+[![GitHub followers](https://img.shields.io/github/followers/peterhcharlton?label=Follow%20me&style=flat-square&logo=github&logoColor=white&colorB=4CAF50)](https://github.com/login?return_to=%2Fpeterhcharlton)
+[![CV](https://img.shields.io/badge/CV-P._Charlton-purple.svg?colorB=9C27B0&style=flat-square)](https://peterhcharlton.github.io/cv/)
+
 I am an engineer and researcher specialising in **signal processing for wearables**, with applications in **health and wellbeing**.  
+
 My work focuses on extracting meaningful physiological insights from signals such as PPG, ECG, and accelerometry, and applying **machine learning** to develop new health metrics.
+
+For more details, see my website: 
+
+👉 [peterhcharlton.github.io](https://peterhcharlton.github.io/) 👈
 
 ![Peter H Charlton's github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=peterhcharlton&show_icons=true)  
 
