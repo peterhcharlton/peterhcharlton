@@ -11,7 +11,8 @@ For more details, see my website:
 
 👉 [peterhcharlton.github.io](https://peterhcharlton.github.io/) 👈
 
-![Peter H Charlton's github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=peterhcharlton&show_icons=true)  
+![Peter's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=peterhcharlton&show_icons=true\&rank_icon=percentile)  
+<!-- ![Peter's GitHub stats](https://github-readme-stats.vercel.app/api?username=peterhcharlton\&rank_icon=percentile\&show_icons=true) -->
 
 ---
 
